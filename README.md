@@ -1,0 +1,2 @@
+ README.md
+# godpod-assets
